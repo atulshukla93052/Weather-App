@@ -1,3 +1,3 @@
 ﻿# Weather_App
-Live Link:-   https://weatherapp-harivanshchauhan.netlify.app/
+Live Link:- https://weather-app-atulshukla.netlify.app/
 "# Weather-App" 
